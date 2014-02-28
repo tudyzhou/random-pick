@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/random/main.qml</file>
+        <file>qml/random/component/Button.qml</file>
+        <file>qml/random/component/Display.qml</file>
+        <file>qml/random/component/NumberPad.qml</file>
+    </qresource>
+</RCC>
